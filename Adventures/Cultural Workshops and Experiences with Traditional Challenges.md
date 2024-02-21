@@ -65,12 +65,12 @@ Tourists immerse themselves in Hawaiian culture through interactive workshops an
 
 **Traditional Names:**
 
-**Hula:** Hula (Traditional Hawaiian Dance)
+`Hula:` Hula (Traditional Hawaiian Dance)
 
-**Ukulele:** 'Ukulele (Traditional Hawaiian String Instrument)
+`Ukulele:` 'Ukulele (Traditional Hawaiian String Instrument)
 
-**Lei Making:** Lei Haku (Traditional Hawaiian Lei Making)
+`Lei Making:` Lei Haku (Traditional Hawaiian Lei Making)
 
-**Traditional Dress:** ‘Ahu‘ula (Feather Cape), Lei (Traditional Hawaiian Garland)
+`Traditional Dress:` ‘Ahu‘ula (Feather Cape), Lei (Traditional Hawaiian Garland)
 
 By integrating challenges into cultural workshops and experiences, participants are encouraged to actively engage in traditional practices and immerse themselves in Hawaiian culture, fostering a deeper appreciation for the cultural heritage of the islands.
