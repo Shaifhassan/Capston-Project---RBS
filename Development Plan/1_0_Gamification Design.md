@@ -2,6 +2,9 @@
 
 `by Werbach & Hunter (2015)`
 
+> [!NOTE]
+> The terminology `gamification` refers to the application of a game mechanism outside its original domain (Deterding et al., 2011)
+
 # AlohaConnect
 
 which aims to empower local tourism on O'ahu. Here's how we can implement each step:

@@ -1,4 +1,5 @@
-# Location Base Technology
+# Technology 
+## Location Base Technology
 
 When properly integrating location-based technologies into the development of AlohaQuest, we can enhance the user experience and promote engagement with the local community. Here's how we can do it, considering the gamification model by Werbach and Hunter (2015):
 
