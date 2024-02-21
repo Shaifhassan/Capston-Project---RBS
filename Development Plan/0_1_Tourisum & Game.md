@@ -1,9 +1,9 @@
-# Tourisum & Game
+# Tourisum & Gamification
 
 > [!NOTE]
 > While designing our game, we should look for answers of some questions, such as "why tourists play games, when do they play, what types of games they prefer". In addition, considering that tourists have limited time, the games that will be designed should be less ambiguous and less compelling than other games (Fernandes et al., 2013).
 
-For AlohaQuest, our goal is to design games that enhance the tourist experience on O'ahu while considering their limited time and preferences. Here's how we can apply this to our app:
+For AlohaQuest, our goal is to design games that enhance the tourist experience on O'ahu while considering their limited time and preferences.
 
 **1. Why Tourists Play Games:**
 
@@ -25,4 +25,4 @@ For AlohaQuest, our goal is to design games that enhance the tourist experience 
 - Less Ambiguity: Ensure that game objectives, rules, and instructions are clear, concise, and easy to understand, minimizing confusion and frustration among players.
 - Less Compelling: Balance the level of challenge and engagement in the games to avoid overwhelming tourists with complex tasks or lengthy gameplay sessions. Games should be enjoyable and rewarding without becoming too demanding or time-consuming.
 
-By incorporating these game design principles into AlohaQuest, we can create a suite of interactive experiences that cater to tourists' preferences, interests, and time constraints, enhancing their overall visit to O'ahu while promoting engagement with the local community and culture.
+> By incorporating these game design principles into AlohaQuest, we can create a suite of interactive experiences that cater to tourists' preferences, interests, and time constraints, enhancing their overall visit to O'ahu while promoting engagement with the local community and culture.
