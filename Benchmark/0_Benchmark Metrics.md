@@ -1,5 +1,7 @@
 **Benchmarking Metrics Summary:**
 
+[Read More **Identifying Similar Destinations:**](./0_Benchmark%20Destinations.md)
+
 **[1. Tourist Arrivals and Revenue:](./1_Tourist%20Arrivals%20and%20Revenue.md)**
 
 - O'ahu compares favorably with similar island destinations like Maui and Maldives in terms of tourist arrivals and revenue. However, there is potential for growth by implementing strategies to attract more visitors and increase tourism expenditure.
@@ -28,3 +30,7 @@
 
 **Overall Assessment:**
 O'ahu demonstrates strengths in various benchmarking metrics related to tourism arrivals, economic empowerment, sustainability, infrastructure, cultural engagement, and entrepreneurship. By leveraging these strengths and addressing areas for improvement, O'ahu can enhance its tourism competitiveness, promote sustainable growth, and create inclusive tourism experiences that benefit both residents and visitors.
+
+---
+
+[Why Aloha Quest](./7_Why%20Aloha%20Quest.md)
