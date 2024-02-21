@@ -1,6 +1,6 @@
 **Benchmarking Metrics Summary:**
 
-[Read More **Identifying Similar Destinations:**](./0_Benchmark%20Destinations.md)
+> [!IMPORTANT] > [**Identifying Similar Destinations:**](./0_Benchmark%20Destinations.md)
 
 **[1. Tourist Arrivals and Revenue:](./1_Tourist%20Arrivals%20and%20Revenue.md)**
 
@@ -33,4 +33,4 @@ O'ahu demonstrates strengths in various benchmarking metrics related to tourism 
 
 ---
 
-[Why Aloha Quest](./7_Why%20Aloha%20Quest.md)
+> [!IMPORTANT] > [Why Aloha Quest?](./7_Why%20Aloha%20Quest.md)
