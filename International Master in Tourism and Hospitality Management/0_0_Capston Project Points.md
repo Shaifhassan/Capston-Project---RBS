@@ -14,9 +14,9 @@
 **5. Business Plan Summary:**
 
 - **The Business:** Developing a mobile application to gamify the tourist experience in O'ahu, integrating local businesses, activities, and cultural experiences to empower the local economy.
-- **The Market:** Conducting market research to identify tourist preferences, local businesses, and competitive landscape. [Read More](./5_1_Business%20Plan_%20Market%20Research.md)
-- **The Future:** Envisioning sustainable growth and community engagement through innovative features and partnerships.
-- **The Finances:** Outlining projected revenue streams, upfront investment needs, and financial sustainability.
+- [The Market:](./5_1_Business%20Plan_%20Market%20Research.md) Conducting market research to identify tourist preferences, local businesses, and competitive landscape.
+- [The Future:](./5_2_Business%20Plan_The%20Future%20Vision.md) Envisioning sustainable growth and community engagement through innovative features and partnerships.
+- [The Finances:](./5_3_Business%20Plan_The%20Finance.md) Outlining projected revenue streams, upfront investment needs, and financial sustainability.
 
 **6. The Business:**
 
