@@ -56,15 +56,21 @@ Tourists immerse themselves in Hawaiian culture through interactive workshops an
 ## Example Challenges
 
 **1. Hula Dance Challenge (Hula):** Learn to perform the "Hukilau" hula dance and showcase your moves in a group performance.
+
 **2. Ukulele Jam Challenge (Ukulele):** Master the chords to "Hawai'i Aloha" on the ukulele and perform a duet with a fellow participant.
+
 **3. Lei Making Challenge (Lei):** Weave a traditional lei using fresh flowers and present it as a gift to a local elder or cultural practitioner.
+
 **4. Traditional Dress Challenge (‘Ahu‘ula and Lei):** Dress up in traditional Hawaiian attire, including an ‘ahu‘ula (feather cape) and lei, and take a photo at a cultural landmark such as Pu'uhonua o Hōnaunau National Historical Park.
 
 **Traditional Names:**
 
 **Hula:** Hula (Traditional Hawaiian Dance)
+
 **Ukulele:** 'Ukulele (Traditional Hawaiian String Instrument)
+
 **Lei Making:** Lei Haku (Traditional Hawaiian Lei Making)
+
 **Traditional Dress:** ‘Ahu‘ula (Feather Cape), Lei (Traditional Hawaiian Garland)
 
 By integrating challenges into cultural workshops and experiences, participants are encouraged to actively engage in traditional practices and immerse themselves in Hawaiian culture, fostering a deeper appreciation for the cultural heritage of the islands.
