@@ -36,4 +36,4 @@ Conducting thorough market research is crucial for understanding the dynamics of
 
 ---
 
-By employing these research methods and collecting relevant KPIs, you can gain valuable insights into the needs, preferences, and behaviors of tourists, local businesses, and community stakeholders in O'ahu. This data will inform the development of your app and help you create a tailored and compelling experience that resonates with your target audience.
+By employing these research methods and collecting relevant KPIs, you can gain valuable insights into the needs, preferences, and behaviors of tourists, local businesses, and community stakeholders in O'ahu. This data will inform the development of our app and help you create a tailored and compelling experience that resonates with our target audience.

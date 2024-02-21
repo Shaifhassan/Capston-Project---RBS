@@ -43,4 +43,4 @@
 
 ---
 
-By implementing these advertising and marketing strategies, your app can effectively reach and engage users, involve local businesses and residents in promoting sustainable tourism, and contribute to the economic and environmental well-being of O'ahu's communities.
+By implementing these advertising and marketing strategies, our app can effectively reach and engage users, involve local businesses and residents in promoting sustainable tourism, and contribute to the economic and environmental well-being of O'ahu's communities.

@@ -55,7 +55,7 @@ Tourists immerse themselves in Hawaiian culture through interactive workshops an
 
 ## Example Challenges
 
-**1. Hula Dance Challenge (Hula):** Learn to perform the "Hukilau" hula dance and showcase your moves in a group performance.
+**1. Hula Dance Challenge (Hula):** Learn to perform the "Hukilau" hula dance and showcase our moves in a group performance.
 
 **2. Ukulele Jam Challenge (Ukulele):** Master the chords to "Hawai'i Aloha" on the ukulele and perform a duet with a fellow participant.
 

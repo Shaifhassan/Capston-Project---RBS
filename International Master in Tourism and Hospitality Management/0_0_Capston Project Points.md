@@ -58,4 +58,4 @@
 
 **11. Annexes:** - Any additional materials, such as graphs, questionnaires, or diagrams, used in the project.
 
-This outline provides a comprehensive framework for structuring your capstone project, focusing on key aspects such as business planning, market analysis, financial projections, and action planning. It allows you to address the project's objectives, methodologies, and outcomes in a clear and organized manner, facilitating effective communication and evaluation of your work.
+This outline provides a comprehensive framework for structuring our capstone project, focusing on key aspects such as business planning, market analysis, financial projections, and action planning. It allows you to address the project's objectives, methodologies, and outcomes in a clear and organized manner, facilitating effective communication and evaluation of our work.

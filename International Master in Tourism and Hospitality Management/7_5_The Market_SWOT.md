@@ -6,7 +6,7 @@
 
 ## Strengths
 
-**1. Innovative Concept:** Your app introduces gamification to enhance the tourist experience in O'ahu, offering unique and engaging activities.
+**1. Innovative Concept:** our app introduces gamification to enhance the tourist experience in O'ahu, offering unique and engaging activities.
 
 **2. Targeted Audience:** Focusing on adventure-seeking millennials and eco-conscious travelers allows for a tailored approach to meet specific needs and preferences.
 
@@ -60,4 +60,4 @@
 
 ---
 
-By conducting a thorough SWOT analysis, you can identify key factors influencing the success of your capstone project, capitalize on strengths, address weaknesses, leverage opportunities, and mitigate threats to maximize the app's impact and sustainability in O'ahu's tourism ecosystem.
+By conducting a thorough SWOT analysis, you can identify key factors influencing the success of our capstone project, capitalize on strengths, address weaknesses, leverage opportunities, and mitigate threats to maximize the app's impact and sustainability in O'ahu's tourism ecosystem.

@@ -46,4 +46,4 @@
 
 ---
 
-By implementing these sustainability strategies and setting minimum goals for impactful activities, your app can demonstrate a strong commitment to environmental and social responsibility while contributing to the long-term viability and resilience of O'ahu's communities and ecosystems.
+By implementing these sustainability strategies and setting minimum goals for impactful activities, our app can demonstrate a strong commitment to environmental and social responsibility while contributing to the long-term viability and resilience of O'ahu's communities and ecosystems.

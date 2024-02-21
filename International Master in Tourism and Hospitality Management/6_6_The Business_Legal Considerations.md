@@ -22,7 +22,7 @@
 
 **4. Regulatory Compliance:**
 
-- Familiarize yourself with applicable laws and regulations governing tourism, hospitality, and business operations in O'ahu and Hawaii.
+- Familiarize ourself with applicable laws and regulations governing tourism, hospitality, and business operations in O'ahu and Hawaii.
 - Ensure compliance with licensing, permits, taxation, zoning, health and safety, and other regulatory requirements relevant to tourism activities and local businesses featured on the app.
 
 **5. Insurance Coverage:**
@@ -51,4 +51,4 @@
 - By verifying the credentials and legitimacy of these entities, the app can create a secure environment for tourists to engage in local community activities, reducing the likelihood of scams, fraud, or other legal issues.
 
 ---
-By addressing these legal considerations proactively, you can minimize legal risks, build trust with users, and create a secure and compliant environment for tourists to engage in local community activities and experiences through your app.
+By addressing these legal considerations proactively, you can minimize legal risks, build trust with users, and create a secure and compliant environment for tourists to engage in local community activities and experiences through our app.
