@@ -1,11 +1,12 @@
-# Gamification design framework
+# Gamification
+## Gamification design framework
 
 `by Werbach & Hunter (2015)`
 
 > [!NOTE]
 > The terminology `gamification` refers to the application of a game mechanism outside its original domain (Deterding et al., 2011)
 
-# AlohaConnect
+## AlohaQuest
 
 which aims to empower local tourism on O'ahu. Here's how we can implement each step:
 
@@ -51,4 +52,4 @@ which aims to empower local tourism on O'ahu. Here's how we can implement each s
 
 ---
 
-By integrating these elements into AlohaConnect, we can create a dynamic and engaging platform that not only connects travelers with authentic local experiences but also empowers local communities, preserves cultural heritage, and promotes sustainable tourism on O'ahu.
+By integrating these elements into AlohaQuest, we can create a dynamic and engaging platform that not only connects travelers with authentic local experiences but also empowers local communities, preserves cultural heritage, and promotes sustainable tourism on O'ahu.

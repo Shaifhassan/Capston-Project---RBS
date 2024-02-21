@@ -1,4 +1,6 @@
-# Blockchain Technology
+# Technology
+
+## Blockchain Technology
 
 Integrating blockchain technology into AlohaQuest can add an extra layer of security, transparency, and efficiency to the platform's operations, particularly in managing virtual contracts between hosts and participants, as well as facilitating the conversion of points to digital currencies. Here's how we can leverage blockchain in our app:
 

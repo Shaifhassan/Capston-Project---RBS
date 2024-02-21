@@ -1,7 +1,7 @@
 # Tourisum & Game
 
 > [!NOTE]
-> While designing these games, you should look for answers of some questions, such as "why tourists play games, when do they play, what types of games they prefer". In addition, considering that tourists have limited time, the games that will be designed should be less ambiguous and less compelling than other games (Fernandes et al., 2013).
+> While designing our game, we should look for answers of some questions, such as "why tourists play games, when do they play, what types of games they prefer". In addition, considering that tourists have limited time, the games that will be designed should be less ambiguous and less compelling than other games (Fernandes et al., 2013).
 
 For AlohaQuest, our goal is to design games that enhance the tourist experience on O'ahu while considering their limited time and preferences. Here's how we can apply this to our app:
 

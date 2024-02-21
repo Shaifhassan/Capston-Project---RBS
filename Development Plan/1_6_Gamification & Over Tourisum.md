@@ -1,4 +1,6 @@
-# Gamification to combat overtourism
+# Gamification
+
+## Combating Overtourism
 
 Gamification can play a significant role in combating overtourism and promoting sustainable behavior among tourists.
 
@@ -37,4 +39,4 @@ Gamification can play a significant role in combating overtourism and promoting 
 
 - Gamify data collection efforts to gather insights into tourist behavior, preferences, and mobility patterns. By incentivizing tourists to share information through gamified surveys, check-ins, or feedback loops, destination managers can better understand visitor trends and tailor sustainable tourism strategies accordingly.
 
-Overall, gamification can serve as a powerful tool to promote responsible tourism practices, foster positive behavior change, and mitigate the adverse effects of overtourism on destinations and their communities. By harnessing the motivational power of games, destinations can encourage tourists to become active participants in preserving natural and cultural resources for future generations.
+> Overall, gamification can serve as a powerful tool to promote responsible tourism practices, foster positive behavior change, and mitigate the adverse effects of overtourism on destinations and their communities. By harnessing the motivational power of games, destinations can encourage tourists to become active participants in preserving natural and cultural resources for future generations.

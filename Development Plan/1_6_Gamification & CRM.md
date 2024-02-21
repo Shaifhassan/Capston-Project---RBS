@@ -1,4 +1,6 @@
-# Gamification & CRM
+# Gamification
+
+## Managing Customer Loyalty
 
 Gamification can be a valuable tool in managing customer relationships and fostering loyalty in the tourism industry.
 
@@ -30,7 +32,7 @@ Research studies, such as those conducted by Huotari and Hamari (2017) and Aljuk
 
 ---
 
-# Ways to Incoporate Gamification in Aloha Quest
+## Ways to Incoporate Gamification in Aloha Quest
 
 **1. Points and Rewards System:**
 
@@ -64,4 +66,4 @@ Research studies, such as those conducted by Huotari and Hamari (2017) and Aljuk
 
 - Collect feedback from users about their gamified experiences and use this input to continuously iterate and improve the gamification elements within the app. Monitor key metrics such as user engagement, retention rates, and satisfaction scores to assess the effectiveness of gamification strategies and make data-driven decisions.
 
-By incorporating these gamification elements into your tourism app, you can create a more interactive, rewarding, and enjoyable experience for users, ultimately driving greater engagement, loyalty, and repeat business.
+> By incorporating these gamification elements into your tourism app, you can create a more interactive, rewarding, and enjoyable experience for users, ultimately driving greater engagement, loyalty, and repeat business.

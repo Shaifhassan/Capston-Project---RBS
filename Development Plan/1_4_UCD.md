@@ -1,4 +1,6 @@
-# User-Centered Design (UCD)
+# Gamification
+
+## User-Centered Design (UCD)
 
 User-Centered Design (UCD) is a design philosophy and process that prioritizes the needs, preferences, and behaviors of end-users throughout the development lifecycle of a product or service. It emphasizes understanding users' perspectives, involving them in the design process, and iteratively refining designs based on user feedback. The goal of UCD is to create intuitive, efficient, and satisfying experiences that meet the needs of users while achieving business objectives.
 

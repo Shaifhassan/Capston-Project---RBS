@@ -1,4 +1,6 @@
-# MAPS-AIM model
+# Gamification
+
+## MAPS-AIM model
 
 The MAPS-AIM model, developed by Russell B. Williams, provides a framework for understanding and analyzing gamified experiences. It stands for Mc (mechanic), As (aesthetic), Po (poetic), Sc (schematic), Tc (technologic), Rf (referent), Dy (dynamic), HE (hedonic-eudaimonic), Au (audience), In (intention), and Mt (metric). This model helps to break down the different components that contribute to a gamified experience.
 

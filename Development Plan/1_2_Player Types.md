@@ -1,4 +1,6 @@
-# Bartle’s Player Types
+# Gamification
+
+## Bartle’s Player Types
 
 Bartle’s (1996) four groups (achievers, explorers, socialisers and killers) seemed to have different preferences and perceptions as to which actions and behaviours are fun and these are described below
 
@@ -26,7 +28,7 @@ Understanding the preferences and motivations of each player type can help tailo
 
 ---
 
-# Marczewski's Player Types
+## Marczewski's Player Types
 
 Marczewski's (2013) model expands on Bartle's player types by incorporating both intrinsic and extrinsic motivations, providing a more nuanced understanding of user behavior in gamified systems.
 
