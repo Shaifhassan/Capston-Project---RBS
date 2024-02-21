@@ -51,8 +51,11 @@ Tourists embark on a culinary adventure exploring local farms, markets, and food
 ## Example Challenges
 
 **Lau Lau Challenge:** Prepare lau lau, a traditional Hawaiian dish consisting of pork wrapped in taro leaves, according to the recipe provided in the traditional recipe book.
+
 **Poi Making Challenge:** Master the art of making poi, a staple food of Hawaiian cuisine, using traditional methods of pounding cooked taro root.
+
 **Lomi Lomi Salmon Challenge:** Create lomi lomi salmon, a refreshing Hawaiian side dish made with salted salmon, tomatoes, onions, and chili peppers, following the traditional recipe.
+
 **Kalua Pig Challenge:** Roast a whole pig in an underground imu oven to make kalua pig, a classic Hawaiian dish infused with smoky flavor and tender texture.
 
 By combining food and farm tours with a community cooking challenge, participants have the opportunity to connect with local food traditions, support community initiatives, and make a positive impact on the lives of others.
