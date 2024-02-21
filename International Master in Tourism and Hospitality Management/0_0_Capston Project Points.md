@@ -1,10 +1,10 @@
 **1. Project Title:** "Ohau Adventure: Gamifying Tourism for Local Empowerment"
 
-**2. Institutional Affiliation:** [Name of Your Institution/University]
+**2. Institutional Affiliation:** [Rome Business School](https://romebusinessschool.com/)
 
 **3. Team Members & Team Leader:**
 
-- Team Leader: [Your Name], [Your Email]
+- Team Leader: `Abigail Lara`, [Email]
 
 **4. Program Director & Program Coordinator:**
 
