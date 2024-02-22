@@ -50,7 +50,7 @@ Tourists earn points for participating in the guided fishing tour and catch & co
 
 Participants can redeem their points for rewards such as discounts on future adventures, culinary souvenirs, or exclusive access to cultural events. Additionally, they have the satisfaction of supporting local businesses and cultural preservation efforts through their participation.
 
----
+***
 
 ## Apnea, Freediving, and Spearfishing Experience
 
