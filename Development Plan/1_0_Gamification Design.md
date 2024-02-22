@@ -1,10 +1,12 @@
 # Gamification
-## Gamification design framework
 
-`by Werbach & Hunter (2015)`
+## Gamification design framework (Model of D6) `by Werbach & Hunter (2015)`
 
 > [!NOTE]
 > The terminology `gamification` refers to the application of a game mechanism outside its original domain (Deterding et al., 2011)
+
+> [!NOTE]
+> The most important and the most remarkable studies among the examined are the D6 model of Werbach and Hunter (Yılmaz, 2017: 216)
 
 ## AlohaQuest
 

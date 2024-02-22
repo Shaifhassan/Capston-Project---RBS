@@ -2,6 +2,12 @@
 
 ## User-Centered Design (UCD)
 
+> [!NOTE]
+> Nicholson (2012) suggests the integration of a user centred design (UCD) approach to identify player’s interests, social boundaries and competences.
+
+> [!NOTE]
+> Game developers with technical backgrounds may sometimes not be fully aware of the tourist’s need to play and motivation. That’s why it should be designed with a user-centered approach to game design (Yovcheva et al., 2014: 15).
+
 User-Centered Design (UCD) is a design philosophy and process that prioritizes the needs, preferences, and behaviors of end-users throughout the development lifecycle of a product or service. It emphasizes understanding users' perspectives, involving them in the design process, and iteratively refining designs based on user feedback. The goal of UCD is to create intuitive, efficient, and satisfying experiences that meet the needs of users while achieving business objectives.
 
 The UCD process typically involves the following key phases:

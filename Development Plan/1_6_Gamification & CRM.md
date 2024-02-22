@@ -1,4 +1,4 @@
-# Gamification
+# Gamification benefit's
 
 ## Managing Customer Loyalty
 
