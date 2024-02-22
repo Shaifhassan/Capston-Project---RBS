@@ -39,41 +39,41 @@ By leveraging these location-based technologies and incorporating them into the 
 
 # Available Technologies
 
-Below is a list location-based technologies we can consider integrating into AlohaQuest along with examples and how to integrate them with your app:
+Below is a list location-based technologies we can consider integrating into AlohaQuest along with examples and how to integrate them with our app:
 
 **1. Google Maps Platform:**
 
 - `Example:` Google Maps API provides mapping services, geocoding, and routing functionalities.
-- `Integration:` Use Google Maps API to display interactive maps within your app, show points of interest, and provide directions to users. You can embed Google Maps directly into your app's interface using the API.
+- `Integration:` Use Google Maps API to display interactive maps within our app, show points of interest, and provide directions to users. You can embed Google Maps directly into our app's interface using the API.
 
 **2. Apple Maps:**
 
 - `Example:` Apple Maps offers mapping and navigation services for iOS devices.
-- `Integration:` If your app targets iOS users, you can integrate Apple Maps SDK to provide similar mapping and navigation features as Google Maps. This allows seamless navigation within your app for iOS users.
+- `Integration:` If our app targets iOS users, you can integrate Apple Maps SDK to provide similar mapping and navigation features as Google Maps. This allows seamless navigation within our app for iOS users.
 
 **3. Mapbox:**
 
 - `Example:` Mapbox provides customizable mapping solutions with features like geolocation, routing, and spatial analysis.
-- `Integration:` Integrate Mapbox SDK into your app to access advanced mapping capabilities and customize the map styles, layers, and annotations according to your app's design and requirements.
+- `Integration:` Integrate Mapbox SDK into our app to access advanced mapping capabilities and customize the map styles, layers, and annotations according to our app's design and requirements.
 
 **4. Foursquare Places API:**
 
 - `Example:` Foursquare Places API offers location-based data on venues, points of interest, and user-generated content.
-- `Integration:` Use Foursquare Places API to access detailed information about local attractions, restaurants, landmarks, and other points of interest. You can integrate this data into your app to provide recommendations, reviews, and location-based search functionalities.
+- `Integration:` Use Foursquare Places API to access detailed information about local attractions, restaurants, landmarks, and other points of interest. You can integrate this data into our app to provide recommendations, reviews, and location-based search functionalities.
 
 **5. OpenStreetMap (OSM):**
 
 - `Example:` OpenStreetMap is a crowd-sourced mapping platform that provides free geographic data.
-- `Integration:` Utilize OpenStreetMap data and APIs to create custom maps, geocode addresses, and perform spatial analysis within your app. You can display OSM tiles, overlays, and markers to visualize location-based information for users.
+- `Integration:` Utilize OpenStreetMap data and APIs to create custom maps, geocode addresses, and perform spatial analysis within our app. You can display OSM tiles, overlays, and markers to visualize location-based information for users.
 
 **6. Estimote Beacons:**
 
 - `Example:` Estimote offers Bluetooth Low Energy (BLE) beacons for proximity-based interactions and indoor navigation.
-- `Integration:` Deploy Estimote Beacons at key locations on O'ahu to deliver contextual notifications, promotions, and location-based experiences to users. You can integrate Estimote SDK into your app to detect nearby beacons and trigger relevant content or actions based on user proximity.
+- `Integration:` Deploy Estimote Beacons at key locations on O'ahu to deliver contextual notifications, promotions, and location-based experiences to users. You can integrate Estimote SDK into our app to detect nearby beacons and trigger relevant content or actions based on user proximity.
 
 **7. Facebook Places API:**
 
 - `Example:` Facebook Places API provides access to location data, check-ins, and user-generated content from the Facebook platform.
-- `Integration:` Use Facebook Places API to incorporate location-based social features into your app, such as check-ins, location tagging, and friend recommendations. You can enable users to share their location experiences and connect with friends through your app.
+- `Integration:` Use Facebook Places API to incorporate location-based social features into our app, such as check-ins, location tagging, and friend recommendations. You can enable users to share their location experiences and connect with friends through our app.
 
 When integrating these location-based technologies into AlohaQuest, ensure compliance with respective platform guidelines, terms of service, and privacy policies. Additionally, consider the user experience and optimize the app's performance for seamless navigation, accurate location tracking, and engaging location-based interactions.
