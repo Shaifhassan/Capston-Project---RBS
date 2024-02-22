@@ -1,7 +1,5 @@
 # Benchmarking
 
-> [!IMPORTANT]
-
 ## Introductions
 
 [**Identifying Similar Destinations:**](./0_Benchmark%20Destinations.md)
