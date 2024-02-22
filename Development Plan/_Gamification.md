@@ -28,4 +28,4 @@
 
 - **[1. Development Plan](./0_0_App%20Development%20Plan.md)** Outlining the timeline, milestones, and tasks for the app development process, including design, implementation, testing, and deployment.
 - **[2. App Design](./3_0_App%20Design.md)** Creating intuitive user interfaces, engaging visuals, and seamless user experiences to maximize usability and appeal for tourists of all backgrounds and preferences.
-- **[3. App Workflows](./3_1_App%20Workflow.md)** Workflow are segmented by different end users and provide different end user experience.
+- **[3. App Workflows](./3_1_App%20Workflow.md)** Workflow are segmented by different end users and provide different end user experience..
