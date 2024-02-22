@@ -21,6 +21,7 @@
 - **[1. Location Based Technology](./2_1_Location%20Base%20Technology.md)** Leveraging GPS, beacons, and geolocation services to provide personalized recommendations, navigation assistance, and location-specific content.
 - **[2. Geocahing Technology](./2_2_Geocaching%20Technology.md)** Integrating geocaching features to encourage exploration, discovery, and interaction with hidden treasures and points of interest.
 - **[3. Block Chain Technology](./2_3_Block%20Chain%20Intergration.md)** Incorporating blockchain for secure transactions, digital asset management, and transparent reward systems within the gamified tourism ecosystem.
+- **[4. QR Technology](./2_4_QR%20Technology.md)** using modern QR technology in our app for guest verification and point redemption,
 
 **`Development`**
 
