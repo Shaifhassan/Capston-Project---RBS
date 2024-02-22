@@ -51,6 +51,8 @@
 
 With NGO registration managed through an external portal, the workflow enables a seamless transition for approved NGOs to access the app's NGO dashboard, where they can actively engage in organizing events, collaborating with local stakeholders, and promoting sustainable tourism practices in Hawaii.
 
+---
+
 **How Registering through the App Helps NGOS**
 
 1. **Increased Visibility and Outreach:** By collaborating with the app, NGOs can expand their reach and visibility to a broader audience of tourists, locals, and businesses. This exposure can attract volunteers, sponsors, and supporters interested in their cause.

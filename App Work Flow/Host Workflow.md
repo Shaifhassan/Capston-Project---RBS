@@ -73,15 +73,21 @@ By incorporating the registration fee setup and income generation aspect into th
 
 - Locals earn points for successfully hosting challenges, with points awarded based on factors such as challenge organization, participant engagement, and positive outcomes achieved.
 
-**3. NGO Collaboration:**
+**3. Host Rating**
+
+- Participants have the opportunity to rate the experience and service provided by the host after completing the adventure.
+- Ratings contribute to the host's overall reputation and credibility within the app.
+- Higher ratings lead to increased visibility and attract more participants, fostering healthy competition among hosts to deliver exceptional experiences.
+
+**4. NGO Collaboration:**
 
 - Locals receive bonus points for collaborating with local NGOs to organize challenges, recognizing their contributions to community engagement and partnership-building.
 
-**4. Community Impact:**
+**5. Community Impact:**
 
 - Bonus points are awarded for challenges that demonstrate significant community impact, such as environmental clean-up events, cultural preservation initiatives, or food donation drives.
 
-**5. Point Redemption:**
+**6. Point Redemption:**
 
 - Participants and hosts can redeem points for rewards such as discounts on future challenges, exclusive experiences, or donations to partner NGOs supporting local causes.
 

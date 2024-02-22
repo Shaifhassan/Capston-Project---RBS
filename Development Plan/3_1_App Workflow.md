@@ -1,6 +1,6 @@
 # Development
 
-## App Design and Wire frame
+## Application Workflows
 
 Aloha Quest app workflow are segmented by different end users and provide different end user experiences.
 
@@ -26,7 +26,7 @@ Aloha Quest app workflow are segmented by different end users and provide differ
 **[Vendor (Shops and Restaurants) Workflow:](../App%20Work%20Flow/Vendor%20and%20Shop%20Workflow.md)**
 
 - `Registration and Onboarding:` Vendors register their businesses on the app, providing details such as location, offerings, and operating hours.
-- `Redemption:` Tourists redeem offers and discounts at partner vendors by presenting digital vouchers or scanning QR codes within the app.
+- `Point Redemption:` Tourists redeem offers and discounts at partner vendors by presenting digital vouchers or scanning QR codes within the app.
 
 **[NGO Workflow:](../App%20Work%20Flow/NGO%20Workflow.md)**
 
