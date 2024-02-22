@@ -1,11 +1,7 @@
 # Our Adventures
 
----
-
 > [!NOTE]
 > Below is sample list of adventures and the work flow of each adventure type and how it can help us contribute to the local comunity
-
----
 
 ## Guided Fishing Tour and Catch & Cook Experience
 
@@ -49,8 +45,6 @@ Tourists earn points for participating in the guided fishing tour and catch & co
 ### Rewards:
 
 Participants can redeem their points for rewards such as discounts on future adventures, culinary souvenirs, or exclusive access to cultural events. Additionally, they have the satisfaction of supporting local businesses and cultural preservation efforts through their participation.
-
----
 
 ## Apnea, Freediving, and Spearfishing Experience
 
@@ -104,8 +98,6 @@ Participants earn points for participating in the apnea, freediving, and spearfi
 
 Points can be redeemed for rewards such as discounts on future adventures, spearfishing equipment, or exclusive access to cultural events. Additionally, participants have the satisfaction of supporting local businesses and cultural preservation efforts through their participation.
 
----
-
 ## Guided Hikes with Locals and Historical Landmark Challenges
 
 **Description:**
@@ -152,8 +144,6 @@ Participants earn points for completing challenges, collecting pictures of histo
 ### Rewards:
 
 Points can be redeemed for rewards such as discounts on future adventures, commemorative souvenirs, or donations to local cultural preservation organizations. Additionally, participants have the satisfaction of experiencing the beauty and cultural richness of the Hawaiian islands while connecting with the local community.
-
----
 
 ## Cultural Workshops and Experiences with Traditional Challenges
 
@@ -224,8 +214,6 @@ Tourists immerse themselves in Hawaiian culture through interactive workshops an
 
 By integrating challenges into cultural workshops and experiences, participants are encouraged to actively engage in traditional practices and immerse themselves in Hawaiian culture, fostering a deeper appreciation for the cultural heritage of the islands.
 
----
-
 ## Food and Farm Tours with Community Cooking Challenge
 
 **Description:**
@@ -279,8 +267,6 @@ Tourists embark on a culinary adventure exploring local farms, markets, and food
 **`Kalua Pig Challenge:`** Roast a whole pig in an underground imu oven to make kalua pig, a classic Hawaiian dish infused with smoky flavor and tender texture.
 
 By combining food and farm tours with a community cooking challenge, participants have the opportunity to connect with local food traditions, support community initiatives, and make a positive impact on the lives of others.
-
----
 
 ## Community Clean-Up and Environmental Stewardship
 
