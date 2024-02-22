@@ -22,6 +22,7 @@
 - **[2. Geocahing Technology](./2_2_Geocaching%20Technology.md)** Integrating geocaching features to encourage exploration, discovery, and interaction with hidden treasures and points of interest.
 - **[3. Block Chain Technology](./2_3_Block%20Chain%20Intergration.md)** Incorporating blockchain for secure transactions, digital asset management, and transparent reward systems within the gamified tourism ecosystem.
 - **[4. QR Technology](./2_4_QR%20Technology.md)** using modern QR technology in our app for guest verification and point redemption,
+- **[5. Big Data Technology](./2_5_Big%20Data%20Technology.md)** Incorporating Big Data technology can bring a whole new depth of engagement and personalization to our app.
 
 **`Development`**
 

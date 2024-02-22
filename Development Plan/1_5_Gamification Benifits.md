@@ -10,6 +10,18 @@
 
 **4. Promoting Sustainability:** Gamification can contribute to achieving economic, social, and environmental sustainability in the tourism industry. By incorporating game mechanics into sustainability initiatives, such as encouraging eco-friendly behaviors or promoting cultural preservation, gamification motivates tourists to contribute positively to destination sustainability efforts.
 
-**5. Education and Learning:** Gamification enhances educational experiences in tourism by increasing interest and knowledge acquisition about tourist destinations. By gamifying learning processes and providing information in a playful and interactive manner, gamification positively influences user expectations and prepares tourists for their visits.
+**5. Behavioral Change:** Gamification can encourage users to change their behavior. For a tourism app, for instance, it could incentivize users to visit more local businesses.
+
+**6. Education and Learning:** Gamification enhances educational experiences in tourism by increasing interest and knowledge acquisition about tourist destinations. By gamifying learning processes and providing information in a playful and interactive manner, gamification positively influences user expectations and prepares tourists for their visits.
+
+**7. Loyalty:** By rewarding users for their actions, gamification can foster brand loyalty.
 
 > Overall, gamification proves to be a versatile and effective strategy for enhancing various aspects of the tourism industry, from marketing and user engagement to sustainability and education. By leveraging game mechanics and immersive technologies, tourism stakeholders can create compelling and memorable experiences that benefit both tourists and destination communities.
+
+---
+
+## Problems Gamification Can Solve
+
+- `Low Engagement and Retention: `Turning tourism into a game increases the chance that users will continue to use our app and return to O'ahu.
+- `Cultural Barriers: `Gamification can help make cultural education fun, engaging tourists in local customs and heritage.
+- `Economic Dispersal:` Encourages tourists to explore beyond the typical tourist spots, benefiting the broader local economy.

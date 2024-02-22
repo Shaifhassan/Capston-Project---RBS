@@ -1,10 +1,14 @@
 # Tourisum & Gamification
 
 > [!NOTE]
-> While designing our game, we should look for answers of some questions, such as "why tourists play games, when do they play, what types of games they prefer". In addition, considering that tourists have limited time, the games that will be designed should be less ambiguous and less compelling than other games (Fernandes et al., 2013).
+> Tourism industry is a service industry, which emphasises very much on experiences co-created by tourists and service providers (Vargo & Lusch 2008).
+
+`Gamification` is a design approach that applies game-design elements and principles in non-gaming contexts to engage and motivate people to achieve their goals. It incorporates rewards for players who accomplish desired tasks or competition to engage users. The effectiveness of gamification lies in its ability to tap into the human psychological predisposition to engage in gaming. Here's the gamification information you need:
+
+---
 
 > [!NOTE]
-> Tourism industry is a service industry, which emphasises very much on experiences co-created by tourists and service providers (Vargo & Lusch 2008).
+> While designing our game, we should look for answers of some questions, such as "why tourists play games, when do they play, what types of games they prefer". In addition, considering that tourists have limited time, the games that will be designed should be less ambiguous and less compelling than other games (Fernandes et al., 2013).
 
 For AlohaQuest, our goal is to design games that enhance the tourist experience on O'ahu while considering their limited time and preferences.
 

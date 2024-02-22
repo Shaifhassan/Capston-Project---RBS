@@ -1,6 +1,6 @@
 # Technology
 
-## Blockchain Technology
+## QR Technology
 
 **1. Integration of QR Code Generation and Scanning Functionality:**
 
