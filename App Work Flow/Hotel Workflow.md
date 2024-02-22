@@ -2,15 +2,10 @@
 
 **1. Registration and Listing:**
 
-- Hotels register on the app by providing information such as name, location, amenities, room types, and pricing.
-- Once verified, hotels are listed on the app's accommodation section, where tourists can browse and book rooms based on their preferences and travel dates.
+- Hotels register their properties on the Aloha Quest app, providing information such as location, amenities, room types, and pricing.
+- They create and list exclusive offers, promotions, and packages tailored for app users, highlighting discounts, perks, and value-added benefits.
 
-**2. Booking Management:**
+**2. Point Redemption System:**
 
-- Hotels manage room availability, reservations, and bookings through the app's dashboard.
-- They receive notifications and updates on new bookings, cancellations, and guest preferences, facilitating efficient communication and guest management.
-
-**3. Guest Services:**
-
-- Hotels offer personalized services to guests through the app, such as room service requests, housekeeping, concierge assistance, and local recommendations.
-- Guests can communicate with hotel staff, make special requests, and access hotel amenities seamlessly through the app.
+- App integrate a point redemption system where guests can browse and redeem their accumulated points for various offers, discounts, and amenities offered by the hotel.
+- Points can be exchanged for room upgrades, complimentary meals, spa treatments, recreational activities, or other special services available at the hotel.

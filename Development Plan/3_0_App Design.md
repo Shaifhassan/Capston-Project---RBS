@@ -1,3 +1,7 @@
+# Development
+
+## App Design and Wire frame
+
 **`Homepage:`** Provides an overview of the app's features and navigation options, including search functionalities, featured experiences, and user profile access.
 
 **`Map View:`** Displays a map interface showing nearby attractions, geocaches, and points of interest. Users can interact with the map to explore different areas and discover hidden treasures.
