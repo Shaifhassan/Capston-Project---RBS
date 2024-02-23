@@ -4,7 +4,11 @@
 
 **3. Team Members & Team Leader:**
 
-- Team Leader: `Abigail Lara`, [Email]
+- Abigail Lara `Team Leader` [abigail.lara.13@gmail.com]
+- Shaif Hassan [shaif.hassan@outlook.com]
+- Konstantinos Voulgaris [voulgarisk98@gmail.com]
+- Giulia Malventi [giulia.malventi@hotmail.it]
+- Jaryal Ankush [jaryalankush789@gmail.com]
 
 **4. Program Director & Program Coordinator:**
 
