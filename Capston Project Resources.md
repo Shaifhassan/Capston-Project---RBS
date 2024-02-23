@@ -1,6 +1,6 @@
 # ALOHA QUEST
 
-[Our Brand](./Images/Aloha%20Quest/Logo.jpeg)
+![Our Brand](./Images/Aloha%20Quest/Logo.jpeg)
 
 > [Project Draft Layout](./Project%20Notes/ProjectWireFrame.md)
 
