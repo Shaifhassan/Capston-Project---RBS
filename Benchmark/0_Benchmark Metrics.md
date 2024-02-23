@@ -43,4 +43,4 @@ O'ahu demonstrates strengths in various benchmarking metrics related to tourism 
 
 ## Why Aloha Quest ?
 
-[Introduction To our Gamification Solutions](./7_Why%20Aloha%20Quest.md)
+[Introduction To our Gamification Solutions](./7_Why_Aloha_Quest.md)
