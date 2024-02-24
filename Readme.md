@@ -10,7 +10,7 @@
 
 > [Research on Gamification and App Development](./Development%20Plan/0_0_App%20Development%20Plan.md)
 
-> [Ideas of Adventures or Activites in our Application](./Adventures/Our%20Adventures.md)
+> [Ideas of Adventures or Activities in our Application](./Adventures/Our%20Adventures.md)
 
 > [Marketing Options](./Marketing%20Plan/Marketing%20Stretagies.md)
 
