@@ -69,7 +69,7 @@ Our project focuses on revitalizing community-based tourism in O'ahu, Hawaii, th
 
 ---
 
-### Executive Summary `(1 page)`
+### Executive Summary `(1 page)` `Konstantinos Voulgaris`
 
 Our project focuses on addressing the challenge of revitalizing community-based tourism in O’ahu, Hawaii, while empowering local economies and preserving cultural heritage. Through innovative strategies and technological solutions, we aim to create a sustainable tourism model that benefits both residents and visitors alike.
 
@@ -125,7 +125,7 @@ Community-Based Tourism, Gamification, Local Economies, Cultural Heritage, Hawai
 
 ---
 
-### Introduction `(2 pages)`
+### Introduction `(2 pages)` `Konstantinos Voulgaris`
 
 Our project aims to address the challenge of balancing economic growth with cultural preservation in the context of tourism in O'ahu, Hawaii. As a team, we are driven by a personal commitment to the well-being of local communities and a professional interest in sustainable tourism development. The project's scientific rationale lies in the potential of gamification to engage tourists and locals alike, fostering a deeper connection to the destination and its cultural heritage. By leveraging data-driven insights and collaborative partnerships, we seek to introduce innovative solutions that benefit both the local economy and the wider tourism industry.
 
@@ -150,7 +150,7 @@ Our project aims to address the challenge of balancing economic growth with cult
 
 ### Main Body
 
-1. **Analysis of Business Challenge:** `(4 pages)`
+1. **Analysis of Business Challenge:** `(4 pages)` `Ankush`
 
    - Overview of Community-Based Tourism in O'ahu: Start by providing an overview of community-based tourism in O'ahu, highlighting its significance and current state.
    - Current Challenges and Opportunities: Discuss the challenges and opportunities faced by community-based tourism, including issues related to overtourism, cultural preservation, and economic empowerment.
@@ -158,7 +158,7 @@ Our project aims to address the challenge of balancing economic growth with cult
    - Bench Mark Analisis and Conclusion: Integrate benchmark analysis to compare O'ahu's tourism ecosystem with other destinations and draw conclusions to inform your strategy development.
    - Integrate the SWOT analysis within this section to provide a comprehensive understanding of the business environment.
 
-2. **Strategy Development:** `(5 pages)`
+2. **Strategy Development:** `(5 pages)` `Shaif`
 
    - Gamified Approach to Tourism: Detail the gamified approach to tourism, explaining how you plan to leverage technology and gamification principles to enhance the tourist experience in O'ahu.
    - Empowering Local Economies: Discuss strategies for empowering local economies, such as integrating local businesses, promoting cultural experiences, and fostering entrepreneurship.
@@ -166,22 +166,56 @@ Our project aims to address the challenge of balancing economic growth with cult
 
 3. **Solution Implementation:** `(6 pages)`
 
-   - Development of Mobile Application (The Business) : Introduce the development of a mobile application as a central component of your strategy, highlighting its role in gamifying the tourist experience and integrating local businesses and cultural activities.
-   - Data Collection and Analysis: Explain the data collection and analysis methods used to inform decision-making.
-   - Promotional Campaign Development: Present the promotional campaign developed to market the app and engage tourists.
-   - Community Engagement Initiatives: Discuss community engagement initiatives aimed at fostering collaboration between residents, businesses, and tourists, such as workshops, events, and online forums.
+- **3.1. Development of Mobile Application (The Business):** `Shaif`
 
-4. **The Finances:** `(2 pages)`
+  > Introduce the development of a mobile application as a central component of your strategy, highlighting its role in
+
+  - Introduction to the mobile application, emphasizing its role in gamifying the tourist experience.
+  - Description of key features and functionalities of the app, such as virtual tours, interactive challenges, and rewards system.
+  - Explanation of how the app will integrate local businesses and cultural activities, providing users with a comprehensive and immersive experience of O'ahu.
+  - Overview of the app's user interface and navigation structure, ensuring ease of use for both tourists and locals.
+  - Emphasis on the app's contribution to empowering the local community and promoting sustainable tourism practices.
+
+- **3.2. Data Collection and Analysis:**
+
+  > Explain the data collection and analysis methods used to inform decision-making.
+
+  - Explanation of the data collection methods employed, including surveys, interviews, and analysis of existing tourism data.
+  - Description of the data analysis techniques used to derive insights into tourist preferences, behavior patterns, and satisfaction levels.
+  - Discussion of the key findings from the data analysis, highlighting trends, opportunities, and areas for improvement.
+  - Insights gained from the analysis that informed decision-making processes during the development and implementation of the app.
+
+- **3.3. Promotional Campaign Development:** `Gulia`
+
+  > Present the promotional campaign developed to market the app and engage tourists.
+
+  - Overview of the promotional campaign designed to market the app and attract tourists to O'ahu.
+  - Description of the campaign objectives, target audience, and messaging strategies.
+  - Outline of the various promotional channels utilized, such as social media, email marketing, and partnerships with travel agencies.
+  - Examples of promotional materials created, such as teaser videos, blog posts, and influencer partnerships.
+  - Evaluation of the effectiveness of the promotional campaign based on metrics such as app downloads, website traffic, and user engagement.
+
+- **3.4. Community Engagement Initiatives:** `Gulia`
+
+  > Discuss community engagement initiatives aimed at fostering collaboration between residents, businesses, and tourists, such as workshops, events, and online forums.
+
+  - Explanation of the community engagement initiatives implemented to foster collaboration between residents, businesses, and tourists.
+  - Description of workshops, events, and online forums organized to gather feedback, solicit ideas, and build relationships within the community.
+  - Examples of successful community engagement initiatives, including case studies and testimonials from participants.
+  - Discussion of the impact of community engagement on app development, user experience, and overall project success.
+  - Plans for ongoing community engagement efforts to ensure continued support and involvement throughout the project lifecycle.
+
+4. **The Finances:** `(2 pages)` `Lara`
 
    - Projected Revenue Streams: rovide an overview of projected revenue streams.
    - Upfront Investment Needs
    - Financial Sustainability: Discuss the financial sustainability of the project and potential sources of funding.
 
-5. **The Future:** `(1 page)`
+5. **The Future:** `(1 page)` `shaif`
    - Envisioning Sustainable Growth
    - Community Engagement through Innovative Features and Partnerships
 
-### Conclusions `(1 page)`
+### Conclusions `(1 page)` `Konstantinos Voulgaris`
 
 In conclusion, our project offers a comprehensive strategy for revitalizing community-based tourism in O'ahu. Through a gamified approach, we aim to empower local economies, preserve cultural heritage, and enhance the overall tourism experience. By fostering collaboration and leveraging innovative technologies, we believe our initiative has the potential to drive positive change and sustainable growth in the region.
 
