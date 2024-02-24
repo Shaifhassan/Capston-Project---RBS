@@ -1,50 +1,75 @@
-1. Introduction: 2 pages
+# Page Layout
 
-   - Personal Background: 1 page
-   - Scientific Rationale: 1 page
-
-2. Main Body: 20 pages
-
-   - Analysis of Business Challenge: 5 pages
-   - Strategy Development: 8 pages
-   - Solution Implementation: 7 pages
-
-3. Conclusions: 1 page
-
-4. Bibliography and Sitography: 1 page
-
-5. Annexes: As needed, depending on the volume of additional materials to include.
+- Cover: 1 Page
+- Information: 1 Page
+- SMART Objective: 1 Page
+- Executive Summary: 1 page
+- Table of Content: 1 page
+- Introduction: 2 pages
+  - Personal Background: 1 page
+  - Scientific Rationale: 1 page
+- Main Body: 20 pages
+  - Analysis of Business Challenge: 6 pages
+  - Strategy Development: 5 pages
+  - Solution Implementation: 6 pages
+  - The Finances: 2 pages
+  - The Future: 1 page
+- Conclusions: 1 page
+- Bibliography : 1 page
+- Annexes: 1 - 5 Pages
 
 ---
 
-**Project Title:**  
+# Project Draft
+
+### Cover Page `(1 page)`
+
+Master in Tourism and Hospitality Management
+April, 2023
+Capstone project by:
+Abigail Lara, Giulia Malventi, Konstantinos Voulgaris, Ankush, Shaif Hassan
+
 Empowering Local Economies: A Gamified Approach to Community-Based Tourism in O'ahu
 
-**Team Members:**
+Rome, March 2024
 
-- Abigail Lara (Team Leader)
-- Shaif Hassan
-- Konstantinos Voulgaris
+`(1 page)`
+
+### Project Title
+
+Empowering Local Economies: A Gamified Approach to Community-Based Tourism in O'ahu
+
+### Team Members
+
+- Abigail Lara `Team Leader`
 - Giulia Malventi
+- Konstantinos Voulgaris
 - Ankush
+- Shaif Hassan
 
-**Program Director:**  
+! May be we can Include our Contribution also, Theoretical
+
+### Program Director
+
 [Program Director's Name]
 
-**Master Program:**  
+### Master Program
+
 [Master Program Name]
 
-**Completion Date:**  
+### Completion Date
+
 [Completion Date]
 
 ---
 
-**SMART Objective:**  
+### SMART Objective `(1 page)`
+
 Our project focuses on revitalizing community-based tourism in O'ahu, Hawaii, through a gamified approach. By empowering local economies and preserving cultural heritage, we aim to increase native Hawaiians' involvement in the tourism industry by 16% within 12 months of launch of our application. Through collaboration with the Hawaii Tourism Authority (HTA) and data exchange, our strategy involves promoting sustainable local experiences to travelers while maximizing profits. The project methodology includes data collection, analysis, and community engagement to ensure the success and sustainability of our initiative.
 
 ---
 
-**Executive Summary** long version
+### Executive Summary `(1 page)`
 
 Our project focuses on addressing the challenge of revitalizing community-based tourism in O’ahu, Hawaii, while empowering local economies and preserving cultural heritage. Through innovative strategies and technological solutions, we aim to create a sustainable tourism model that benefits both residents and visitors alike.
 
@@ -82,7 +107,7 @@ Community-Based Tourism, Gamification, Local Economies, Cultural Heritage, Hawai
 
 ---
 
-**Table of Contents:**
+### Table of Contents `(1 page)`
 
 1. Introduction
    - Personal Background
@@ -100,7 +125,8 @@ Community-Based Tourism, Gamification, Local Economies, Cultural Heritage, Hawai
 
 ---
 
-**Introduction:** (2 pages):
+### Introduction `(2 pages)`
+
 Our project aims to address the challenge of balancing economic growth with cultural preservation in the context of tourism in O'ahu, Hawaii. As a team, we are driven by a personal commitment to the well-being of local communities and a professional interest in sustainable tourism development. The project's scientific rationale lies in the potential of gamification to engage tourists and locals alike, fostering a deeper connection to the destination and its cultural heritage. By leveraging data-driven insights and collaborative partnerships, we seek to introduce innovative solutions that benefit both the local economy and the wider tourism industry.
 
 1. **Personal Background:**
@@ -122,9 +148,9 @@ Our project aims to address the challenge of balancing economic growth with cult
 5. **Relevance and Methodology:**
    - Explain the significance and relevance of the project within the broader context. Discuss why the chosen topic is important and how it contributes to existing knowledge or addresses real-world challenges. Additionally, briefly outline the methodology or approach that will be used to tackle the project objectives.
 
-**Main Body:**
+### Main Body
 
-1. **Analysis of Business Challenge:** (4 pages):
+1. **Analysis of Business Challenge:** `(4 pages)`
 
    - Overview of Community-Based Tourism in O'ahu: Start by providing an overview of community-based tourism in O'ahu, highlighting its significance and current state.
    - Current Challenges and Opportunities: Discuss the challenges and opportunities faced by community-based tourism, including issues related to overtourism, cultural preservation, and economic empowerment.
@@ -132,92 +158,39 @@ Our project aims to address the challenge of balancing economic growth with cult
    - Bench Mark Analisis and Conclusion: Integrate benchmark analysis to compare O'ahu's tourism ecosystem with other destinations and draw conclusions to inform your strategy development.
    - Integrate the SWOT analysis within this section to provide a comprehensive understanding of the business environment.
 
-2. **Strategy Development:** (5 pages):
+2. **Strategy Development:** `(5 pages)`
 
    - Gamified Approach to Tourism: Detail the gamified approach to tourism, explaining how you plan to leverage technology and gamification principles to enhance the tourist experience in O'ahu.
    - Empowering Local Economies: Discuss strategies for empowering local economies, such as integrating local businesses, promoting cultural experiences, and fostering entrepreneurship.
    - Sustainable Tourism Practices: Outline sustainable tourism practices that will be incorporated into your strategy, emphasizing the importance of environmental conservation, cultural preservation, and community engagement.
 
-3. **Solution Implementation:** (6 pages):
+3. **Solution Implementation:** `(6 pages)`
 
    - Development of Mobile Application (The Business) : Introduce the development of a mobile application as a central component of your strategy, highlighting its role in gamifying the tourist experience and integrating local businesses and cultural activities.
    - Data Collection and Analysis: Explain the data collection and analysis methods used to inform decision-making.
    - Promotional Campaign Development: Present the promotional campaign developed to market the app and engage tourists.
    - Community Engagement Initiatives: Discuss community engagement initiatives aimed at fostering collaboration between residents, businesses, and tourists, such as workshops, events, and online forums.
 
-4. **The Finances:** (2 pages):
+4. **The Finances:** `(2 pages)`
 
    - Projected Revenue Streams: rovide an overview of projected revenue streams.
    - Upfront Investment Needs
    - Financial Sustainability: Discuss the financial sustainability of the project and potential sources of funding.
 
-5. **The Future:** (1 page):
+5. **The Future:** `(1 page)`
    - Envisioning Sustainable Growth
    - Community Engagement through Innovative Features and Partnerships
 
-**Conclusions:** (1 page)
+### Conclusions `(1 page)`
+
 In conclusion, our project offers a comprehensive strategy for revitalizing community-based tourism in O'ahu. Through a gamified approach, we aim to empower local economies, preserve cultural heritage, and enhance the overall tourism experience. By fostering collaboration and leveraging innovative technologies, we believe our initiative has the potential to drive positive change and sustainable growth in the region.
 
-**Bibliography and Sitography:** (1 page)
-[List of references using Harvard Referencing Style]
+### Bibliography and Sitography `(1 page)`
 
-**Annexes:**
+[List of references ]
+
+### Annexes `(1 page)`
+
 [Appendices including survey questionnaires, data compilations, source code, etc.]
-
-Sure, here's a sample survey form:
-
----
-
-**Survey on Community-Based Tourism Experience**
-
-**Introduction:**
-Thank you for participating in our survey! Your feedback is valuable in helping us understand the community's perspective on tourism experiences in O'ahu. Please take a few minutes to answer the following questions honestly and to the best of your ability.
-
-**Section 1: Demographic Information**
-
-1. Age: [ ] Under 18 [ ] 18-25 [ ] 26-35 [ ] 36-45 [ ] 46-55 [ ] 56 and above
-2. Gender: [ ] Male [ ] Female [ ] Other (please specify: ****\_\_\_\_****)
-3. Occupation: **********\_\_\_\_**********
-4. Annual Household Income: [ ] Under $25,000 [ ] $25,000-$50,000 [ ] $50,000-$75,000 [ ] $75,000-$100,000 [ ] Over $100,000
-
-**Section 2: Tourism Experience**
-
-5. How often do you participate in tourist activities in O'ahu?
-   [ ] Very frequently [ ] Occasionally [ ] Rarely [ ] Never
-
-6. What types of tourist activities do you typically engage in? (Check all that apply)
-   [ ] Beach activities (e.g., swimming, snorkeling)
-   [ ] Hiking and nature trails
-   [ ] Cultural experiences (e.g., luaus, cultural tours)
-   [ ] Dining at local restaurants
-   [ ] Shopping for souvenirs
-   [ ] Other (please specify: ****\_\_\_\_****)
-
-7. What factors influence your decision to participate in tourist activities in O'ahu? (Rank in order of importance, with 1 being the most important and 5 being the least important)
-   [ ] Cost
-   [ ] Authenticity of experience
-   [ ] Convenience/accessibility
-   [ ] Recommendations from friends/family
-   [ ] Variety of activities available
-
-**Section 3: Feedback and Suggestions**
-
-8. What do you enjoy most about tourism experiences in O'ahu?
-
-   ***
-
-9. What aspects of tourism experiences in O'ahu do you think could be improved?
-
-   ***
-
-10. Do you have any suggestions for new or alternative tourism experiences that could be offered in O'ahu?
-    ***
-
-**Section 4: Additional Comments**
-
-11. Is there anything else you would like to share about your tourism experiences in O'ahu?
-    ***
-
-**Thank you for your participation!**
 
 ---
